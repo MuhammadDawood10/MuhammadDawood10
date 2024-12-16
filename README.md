@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Dawood</h1>
-<h3 align="center">A passionate 12yr old Fullstack/Game developer from Pakistan</h3>
+<h3 align="center">A passionate 12yr old game developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Algoriths & Data structures**
 
 - 💬 Ask me about **c++, react, javascript**
 
