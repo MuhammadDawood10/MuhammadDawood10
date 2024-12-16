@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Dawood</h1>
 <h3 align="center">A passionate 12yr old game developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Algoriths & Data structures**
+- 🌱 I’m currently learning **Algorithms & Data structures**
 
 - 💬 Ask me about **c++, react, javascript**
 
