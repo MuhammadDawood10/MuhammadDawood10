@@ -2,7 +2,7 @@
 
 Hi! I'm Muhammad Dawood, a 13-year-old web developer. Learning cybersecurity & systems programming
 
-🔭 I’m currently working on Simple Text Editor<br>🌱 I’m currently learning Networking<br>💬 Ask me about C, Javascript
+🔭 I’m currently working on Simple Text Editor<br>🌱 I’m currently learning Systems Programming<br>💬 Ask me about C, Javascript
 
 
 ## 🌐 Socials:
