@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 ### Hi, I'm Muhammad Dawood. I'm a web developer from Pakistan.
 
 ## 🌐 Socials:
@@ -6,6 +6,3 @@
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,go,js,ts,html,css,svelte,tailwind,py)](https://skillicons.dev)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
