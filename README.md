@@ -2,7 +2,7 @@
 ### Hi, I'm Muhammad Dawood. I'm a fullstack web developer from Pakistan.
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,js,ts,html,css,svelte,tailwind,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,html,css,js,ts,svelte,tailwind)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 
